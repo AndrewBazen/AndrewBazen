@@ -2,7 +2,7 @@
 
 About me:
 - 👀 I’m interested in becoming a Software Engineer.
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Backend Development on boot.dev
 
 
 <!---
