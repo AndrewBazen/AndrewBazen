@@ -2,6 +2,7 @@
 
 About me:
 - 👀 I’m interested in becoming a Software Engineer.
+- 🌱 I’m currently Enrolled in Microsoft's Software and Systems Academy for Cloud Application Develeopment.
 - 🌱 I’m currently learning Backend Development on boot.dev
 
 
