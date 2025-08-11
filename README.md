@@ -1,9 +1,10 @@
 # Andrew Bazen
 
 About me:
-- I'm an aspiring Software Engineer.
-- 🌱 I’m currently Enrolled in Microsoft's Software and Systems Academy for Cloud Application Develeopment.
-- 🌱 I’m currently learning Backend Development on boot.dev
+- I'm a Software Engineer.
+- I am a graduate of Microsoft's Software and Systems Academy for cloud application development
+- I’m currently learning Backend Development on boot.dev and Rust in my personal time.
+
 
 
 <!---
