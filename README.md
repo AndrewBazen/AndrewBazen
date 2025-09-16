@@ -1,4 +1,4 @@
-# Andrew Bazen
+# Andrew J. Bazen
 
 About me:
 - I'm a Software Engineer.
