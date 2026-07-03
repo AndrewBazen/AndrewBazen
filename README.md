@@ -16,6 +16,7 @@ Transitioning from full-stack/cloud development into **AI/ML engineering**. Righ
 
 ### 🤖 Featured AI/ML projects
 
+- **[world-engine](https://github.com/AndrewBazen/world-engine)** — An AI-driven, graph-based RPG backend in Rust powered by a hierarchy of **local LLM agents** (Ollama). Uses tiered model routing (a larger model for player narrative, a small fast model for routine NPC reactions), a custom LLM-readable format (**Edgescript**) that agents emit as validated, structured patches merged into a live world graph, per-agent namespace permissions, and a real-time D3 visualizer over WebSocket.
 - **[StackScribe-AI](https://github.com/AndrewBazen/stackscrib-ai)** — A local **RAG pipeline** for automatic note linking: a Python service that embeds notes into a **Qdrant** vector database and retrieves context with a local **Ollama** LLM, containerized with Docker.
 - **[StackScribe](https://github.com/AndrewBazen/StackScribe)** — Cross-platform, AI-assisted note-taking app with a markdown editor and developer-focused plugins, powered by the StackScribe-AI engine (Rust, Tauri, React, TypeScript).
 
